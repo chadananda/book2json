@@ -1,6 +1,6 @@
 {
   "name": "book2json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "HTML Importer from Gutenberg to JSON",
   "main": "index.js",
   "scripts": {
@@ -38,5 +38,16 @@
   },
   "directories": {
     "test": "test"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chadananda/book2json.git"
+  },
+  "keywords": [
+    "gutenberg"
+  ],
+  "bugs": {
+    "url": "https://github.com/chadananda/book2json/issues"
+  },
+  "homepage": "https://github.com/chadananda/book2json#readme"
 }
